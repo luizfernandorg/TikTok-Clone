@@ -1,4 +1,4 @@
-import Reactm, {useState} from 'react'
+import React, {useState} from 'react'
 import "./VideoSidebar.css"
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
